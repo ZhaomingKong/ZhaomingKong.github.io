@@ -31,5 +31,6 @@ Denoising Comparison Project
 ======
 In this project, we extensively compare numerous on both synthetic and real-world datasets. We also work hard to collect new color image and video datasets for benchmarking, and our evaluations are performed from different perspectives. We will continuously update our datasets and denoising results of compared methods on this page.
 * The Proposed Dataset
+======
 I have spent over three years collecting image data based on real-world scenes using more than 10 different cameras. The proposed dataset is based on indoor and outdoor scenes. I do not use predefined camera settings such as ISO, shutter speed and aperture. Instead, I mainly use the cameras' auto-mode, which I believe is the default and most widely-used mode when taking photos. Therefore, the noise levels of images in my dataset vary significantly. In my opinion, a good denoiser should be robust to noise while preserve as many details as possible. 
 <img src='/images/500x300.png'>
