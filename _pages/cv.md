@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,46 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Applied Mathematics, South China University of Technology (SCUT), 2016
+* M.S. in Software Engineering, South China University of Technology (SCUT), 2019
+* Ph.D student in Software Engineering, South China University of Technology (SCUT), 2022 (expected)
 
-Work experience
+Working experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-2020: Research Assistant
+  * Lehigh University
+  * Duties included: Build models based on graph convolutional networks (GCN).
+  * Supervisor: Prof. Lifang He
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2020-2021: Research/Teaching Assistant
+  * Lehigh University
+  * Duties included: Build models based on tenosr analysis.
+  * Supervisor: Prof. Lifang He
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Kong, Zhaoming, and Xiaowei Yang. "Color image and multispectral image denoising using block diagonal representation." IEEE Transactions on Image Processing 28.9 (2019): 4247-4259. 
+* Kong, Zhaoming, Le Han, Xiaolan Liu and Xiaowei Yang. "A New 4-D nonlocal transform-domain filter for 3-D magnetic resonance images denoising." IEEE transactions on medical imaging 37.4 (2017): 941-954.
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Spring, 2020, Teaching assistant of CSE 347/447 (Data Mining)
+* Spring, 2021, Teaching assistant of CSE 347/447 (Data Mining)
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* A good reviewer of IEEE TIP, IEEE TMI, IEEE TSMC, CVPR, AAAI etc.
+* Organizer of basketball games every weekend.
+
+Skills/Hobbies
+======
+* MATLAB, Python, CUDA
+* Basketball, Tennis, Chess
+
+Awards
+======
+* 2022, Live With My Parents, and Thanks for Their Support!!!
+* 2019, Fellowship for Graduate Students, Lehigh University
+* 2018, First Class Scholarship for Graduate Students, SCUT
+* 2017, Third Class Scholarship for Graduate Students, SCUT
+* 2016, First Class Scholarship for Graduate Students, SCUT
