@@ -29,7 +29,8 @@ Working experience
 
 Publications
 ======
-* Kong, Zhaoming, and Xiaowei Yang. "Color image and multispectral image denoising using block diagonal representation." IEEE Transactions on Image Processing 28.9 (2019): 4247-4259. 
+* Kong, Zhaoming, and Xiaowei Yang. "Color image and multispectral image denoising using block diagonal representation." IEEE Transactions on Image Processing 28.9 (2019): 4247-4259. <a style="color: #447ec9" href="https://arxiv.org/pdf/1902.03954.pdf">paper</a> and <a style="color: #447ec9" href="https://github.com/ZhaomingKong/color_image_denoising">code</a>
+
 * Kong, Zhaoming, Le Han, Xiaolan Liu and Xiaowei Yang. "A New 4-D nonlocal transform-domain filter for 3-D magnetic resonance images denoising." IEEE transactions on medical imaging 37.4 (2017): 941-954.
   
 Teaching
