@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /denoising_comparison/
+permalink: /denoising-comparison-project/
 author_profile: true
 redirect_from:
   - /resume
