@@ -12,7 +12,7 @@ I am currently living with my parents and applying for a PhD at SCUT, Guangzhou.
 
 News
 ======
-+ 06/2025, one paper entitled "Image Denoising Using Green Channel Prior" was accepted by IEEE TIP. Congrats!!!
++ 06/2025, "Image Denoising Using Green Channel Prior" accepted by IEEE TIP. Congrats!!!
 + 01/2022, continue the <a href="https://github.com/ZhaomingKong/Denoising-Comparison">"Denoising Comparison Project"</a>.
 + 12/2021, leave Lehigh University and start to pursue a PhD at SCUT.
 + 09/2021, one paper has been <b>rejected</b> by IEEE TMI.
