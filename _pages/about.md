@@ -12,6 +12,7 @@ I am currently living with my parents and applying for a PhD at SCUT, Guangzhou.
 
 News
 ======
++ 11/2025, one paper has been <b>rejected</b> by IEEE TCSVT. It is OK, 千里马常有，而伯乐不常有。
 + 06/2025, "Image Denoising Using Green Channel Prior" accepted by IEEE TIP. Congrats!!!
 + 01/2022, continue the <a href="https://github.com/ZhaomingKong/Denoising-Comparison">"Denoising Comparison Project"</a>.
 + 12/2021, leave Lehigh University and start to pursue a PhD at SCUT.
